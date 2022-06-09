@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow: hidden;
+}
+
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+.tp-dfwv {
+
+    /* width: 800px; */
+    padding-left: 20px;
+
+}
+
+/* .tp-lblv  {
+
+    width: 120%;
+    color: red;
+
+} */
